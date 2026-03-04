@@ -15,6 +15,6 @@ Hey! I’m Samiksha, a mechanical engineering student at Cornell with a passion 
 Growing up, I was inspired by Kalpana Chawla- her courage and achievements sparked my love for engineering and motivated me to pursue a path in robotics and aerospace.
 
 
-Outside of engineering, I’m passionate about music- I play three instruments and love both learning new pieces and discovering new artists. Whether it’s practicing, composing, or just listening, music is a big part of how I relax and stay inspired. 
+Outside of engineering, I’m passionate about music- I play three instruments and love both learning new pieces and discovering new artists. Whether it’s practicing, composing, or just listening, music is a big part of how I relax and stay inspired.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
