@@ -8,7 +8,6 @@ title: <Samiksha Emmaneni>
 
 ![Profile Picture]({{ "assets/images/samipic.jpeg" | relative_url }}){: class="profile-image"}
 
- 
 Hey! I’m Samiksha, a mechanical engineering student at Cornell with a passion for robotics and aerospace. I love designing and building systems that combine mechanics, electronics, and software to solve real-world problems. From prototyping robots to exploring flight dynamics, I enjoy hands-on projects that challenge me to think creatively and technically.
 
 
