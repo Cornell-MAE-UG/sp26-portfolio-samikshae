@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: <Samiksha Emmaneni> - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
