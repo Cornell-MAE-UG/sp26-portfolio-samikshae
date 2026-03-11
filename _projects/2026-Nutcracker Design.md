@@ -5,6 +5,10 @@ description: ENGRD 2020 - Nutcracker Design
 #technologies: [MATLAB, python]
 image: /assets/images/hw4.jpeg
 ---
+
+
+
+
 Given: The average force required to crack a macadamia nut is about 490 lbf, the nut diameter is 1 in, and the typical maximum hand grip force available is about 80 lbf.
 
 Find: Determine the free-body diagram when the nut is about to crack and the required dimensions of the nutcracker so that a human hand force can generate enough cracking force.
